@@ -10,7 +10,7 @@ contract Token {
     // Tokens Name
     string public name = "My Token";
     // Tokens Symbol
-    string public symbol = "MTK";
+    string public symbol = "irin";
     // Total Decimals (max 18)
     uint public decimals = 18;
     
